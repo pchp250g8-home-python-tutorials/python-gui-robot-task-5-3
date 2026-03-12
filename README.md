@@ -1,5 +1,14 @@
 RobotTask-5-3. Python Tutorials. Actor Robot. StepInDev Platform. GUI Application. 
-In the first setting, the robot's field has the following dimensions: length 7 cells, width 3 cells. In the second setting, the robot's field has the following dimensions: length 6 cells, width 3 cells. In the third setting, the robot's field has the following dimensions: length 7 cells, width 3 cells. It has blue walls around the perimeter. The robot's starting position is marked with a blue square. The robot's final position is marked with a red house. The painted cells of the field are marked with a large orange square. The task is to move the robot from its starting position to its final position. Along the way, color in the cells marked with an small orange square (see figures). Solve the problem for all robot environments (write a common code). The solution of the task is located in the file "Task-5-2.py".
+In the first setting, the robot's field has the following dimensions: length 7 cells, width 3 cells. 
+In the second setting, the robot's field has the following dimensions: length 6 cells, width 3 cells. 
+It has blue walls around the perimeter. 
+The robot's starting position is marked with a blue square. 
+The robot's final position is marked with a red house. 
+The painted cells of the field are marked with a large orange square. 
+The task is to move the robot from its starting position to its final position. 
+Along the way, color in the cells marked with an small orange square (see figures). 
+Solve the problem for all robot environments (write a common code). 
+The solution of the task is located in the file "Task-5-2.py".
 
 
 RobotTask-5-3. Занятия по Python. Исполнитель Робот. Платформа StepInDev. Приложение с графическим интерфейсом пользователя.
